@@ -1,0 +1,27 @@
+{
+
+":blockAtlas"https://cdn.discordapp.com/attachments/1246444405137866835/1265252801441955850/undefined_-_Imgur_2_1.png?ex=66a0d5ff&is=669f847f&hm=e5d2c410135591674ecab8032a99bbbe408453f477015d7fe3047b75c67b1edc&
+
+/attachment...",
+
+"skyBoxes": {
+
+"default": {
+
+"type": "custom",
+
+"nx": "textures/skyBoxes/space_lightblue/_nx.jpg",
+
+"ny": "textures/skyBoxes/space_lightblue/_ny.jpg",
+
+"nz": "textures/skyBoxes/space_lightblue/_nz.jpg",
+
+"px": "textures/skyBoxes/space_lightblue/_px.jpg",
+
+"py": "textures/skyBoxes/space_lightblue/_py.jpg",
+
+"pz": "textures/skyBoxes/space_lightblue/_pz.jpg"
+
+}
+
+}
